@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+/**
+ * ${1:[description]}
+ * @method ${2:[method name]}
+ * @param {${3:[type]}} ${4:[param description]}
+ * @return {${5:[type]}} ${6:[return description]}
+ */
+$0
+]]>
+  </content>
+  <tabTrigger>yuimethod</tabTrigger>
+  <description>Method Block - YUIDoc</description>
+  <scope>source.js</scope>
+</snippet>

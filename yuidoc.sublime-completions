@@ -1,0 +1,46 @@
+{
+    "scope": "source.js",
+
+    "completions":
+    [
+        // Primary Tags
+        "@module $1",
+        "@main $1",
+        "@class $1",
+        "@method $1",
+        "@event $1",
+        "@property $1",
+        "@attribute $1",
+
+        // Secondary Tags
+        "@submodule $1",
+        "@namespace $1",
+        "@extends $1",
+        "@constructor",
+        "@static",
+        "@final",
+        "@readOnly",
+        "@writeOnce",
+        "@optional",
+        "@required",
+        "@param {${1:type}} ${2:name} ${3:description}",
+        "@return {${1:type optional}} ${2:description}",
+        "@type $1",
+        "@private",
+        "@protected",
+        "@requires $1",
+        "@default $1",
+        "@uses $1",
+        "@example $1",
+        "@chainable",
+        "@deprecated $1",
+        "@since $1",
+        "@async",
+        "@beta",
+        "@bubbles $1",
+        "@extension $1",
+        "@extensionfor $1",
+        "@extension_for $1"
+
+    ]
+}

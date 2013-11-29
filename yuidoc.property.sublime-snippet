@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+/**
+ * ${1:[description]}
+ * @property ${2:[property name]}
+ * @type {${3:[type]}}
+ * @default ${4:[default value]}
+ */
+$0
+]]>
+  </content>
+  <tabTrigger>yuiproperty</tabTrigger>
+  <description>Property Block - YUIDoc</description>
+  <scope>source.js</scope>
+</snippet>

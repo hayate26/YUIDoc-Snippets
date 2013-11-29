@@ -1,0 +1,16 @@
+<snippet>
+  <content>
+<![CDATA[
+/**
+ * ${1:[description]}
+ * @class ${2:[class name]}
+ * @extends ${3:[parent class name]}
+ * @constructor
+ */
+$0
+]]>
+  </content>
+  <tabTrigger>yuiclass</tabTrigger>
+  <description>Class Block - YUIDoc</description>
+  <scope>source.js</scope>
+</snippet>
